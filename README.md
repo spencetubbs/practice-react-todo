@@ -1,12 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Following tutorial here to start:
-
-https://www.youtube.com/playlist?list=PL4cUxeGkcC9ij8CfkAY2RAGb-tmkNwQHG
-
-## CSS taken from:
-
-https://materializecss.com/
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).<br>
+Following tutorial here to start: https://www.youtube.com/playlist?list=PL4cUxeGkcC9ij8CfkAY2RAGb-tmkNwQHG<br>
+CSS taken from: https://materializecss.com/
 
 ## Available Scripts
 
